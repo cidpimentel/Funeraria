@@ -19,7 +19,7 @@
             .Columns(3).HeaderText = "Categoria"
             .Columns(4).HeaderText = "Marca"
             .Columns(5).HeaderText = "Unidad"
-            .Columns(6).HeaderText = "stock"
+            .Columns(6).HeaderText = "Stock"
             .Columns(7).HeaderText = "Precio.Compra"
             .Columns(8).HeaderText = "Precio.Venta"
 
