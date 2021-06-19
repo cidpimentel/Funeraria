@@ -15,7 +15,7 @@
 
             .Columns(0).HeaderText = "#"
             .Columns(1).HeaderText = "Clave"
-            .Columns(2).HeaderText = "Descripcion"
+            .Columns(2).HeaderText = "Descripción"
             .Columns(3).HeaderText = "Categoria"
             .Columns(4).HeaderText = "Marca"
             .Columns(5).HeaderText = "Unidad"
